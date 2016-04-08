@@ -1,0 +1,127 @@
+.img-center{
+  margin: 0 auto;
+}
+
+.title{
+  color: #000;
+  font-weight: bold;
+}
+
+.header-row{
+  padding-bottom: 40px;
+}
+.icon{
+  font-size: 50px;
+  color: #000;
+}
+
+/*top section*/
+section#top{
+  background: #1abc9c;
+  padding: 40px 0;
+}
+.img-main{
+  height: 300px;
+  padding-top: 60px;
+}
+
+/*benifit section*/
+section#benifit{
+  background: #fff;
+  padding: 40px 0;
+}
+.benifit-title{
+  color: #000;
+}
+
+/*feature section*/
+section#feature{
+  background: #ecf0f1;
+  padding: 40px 0;
+}
+
+.feature-title{
+  color: #000;
+}
+
+/*screenshot section*/
+section#screenshot{
+  background: #202020;
+  color: #bdc3c7;
+  padding: 40px 0;
+}
+
+.screenshot-title {
+  color: #fff;
+  padding-bottom: 20px;
+}
+.contact{
+  padding-top: 20px;
+}
+
+/*business section*/
+section#business{
+  background: #ecf0f1;
+  padding: 40px 0;
+}
+.business-col{
+  background: #fff;
+}
+
+.business-col > ul > li{
+  border-radius: 0;
+  border: 1px solid #ddd;
+  color: #000;
+}
+
+.business-item{
+  font-size: 16px;
+  padding: 10px;
+}
+
+.list-header{
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+}
+
+/*get in touch section*/
+section#get-in-touch{
+  padding: 40px 0;
+}
+.btn-sent{
+  width: 100%;
+}
+
+.form-control{
+  height: 50px;
+}
+
+.form-group{
+  margin-bottom: 30px;
+}
+
+/*footer section*/
+section#footer{
+  background: #1D2023;
+  color: #B6B6B6;
+}
+.go-to-top{
+  width: 52px;
+  height: 52px;
+  margin: 0 auto;
+  line-height: 45px;
+  display: block;
+  font-size: 28px;
+  text-align: center;
+  background: #337ab7;
+  color: #fff;
+  border-radius: 26px;
+  position: relative;
+  top: -30px;
+}
+.footer-row{
+  padding: 40px 0;
+}
