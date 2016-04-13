@@ -5,11 +5,31 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link href="css/main_style.css" rel="stylesheet">
-<link href="css/benifit.css" rel="stylesheet">
+<link href="css/menu.css" rel="stylesheet">
 <title>Rotati Payment Solution</title>
 </head>
 
 <body>
+
+<!-- menu -->
+<section id="menu">
+  <a href="#" id="menu-link">
+    <span class="menu-icon"></span>
+  </a>
+
+  <div class="overlay" id="overlay">
+    <nav class="overlay-menu">
+      <ul>
+        <li><a href="#top" class="smooth-scroll">Top</a></li>
+        <li><a href="#benifit" class="smooth-scroll">Benifit</a></li>
+        <li><a href="#feature" class="smooth-scroll">Feature</a></li>
+        <li><a href="#screenshot" class="smooth-scroll">Screenshots</a></li>
+        <li><a href="#business" class="smooth-scroll">Business Model</a></li>
+        <li><a href="#get-in-touch" class="smooth-scroll">Get In Touch</a></li>
+      </ul>
+    </nav>
+  </div>
+</section>
 
 <!-- top section -->
 <section id='top'>
@@ -35,6 +55,7 @@
   </div> 
 </section>
 <!-- End top section -->
+
 <!-- start benifit section -->
 <section id='benifit'>
   <div class="container">
@@ -75,6 +96,7 @@
 </section>
 <!-- End benifit section -->
 
+<!-- start feature section -->
 <section id="feature">
   <div class="container">
     <div class="row header-row">
@@ -242,7 +264,7 @@
 
       <div class="col-xs-12 text-center contact">
         <span>Interested?</span>
-        <a href="#get-in-touch" class="btn btn-primary ">
+        <a href="#get-in-touch" class="btn btn-primary smooth-scroll">
           <i class="fa fa-check"></i> 
           Contact Us Now
         </a>
@@ -327,7 +349,7 @@
     <div class="row form">
       <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
         <!-- //formspree.io/whitelabel@payspine.com -->
-        <form action="#" method="post">
+        <form action="" method="post">
           <div class="col-xs-12 col-md-6 form-group">
             <input type="text" class="form-control" name="Name" placeholder="Name" required="">
           </div>
@@ -338,7 +360,7 @@
             <input type="text" class="form-control" name="Conpany Name" placeholder="Conpany Name" required="">
           </div>
           <div class="col-xs-12 col-md-6 form-group">
-            <input type="text" class="form-control" name="Email" placeholder="Your email" required="">
+            <input type="email" class="form-control" name="Email" placeholder="Your email" required="">
           </div>
           <div class="col-xs-12 form-group">
             <textarea class="form-control" name="Message" placeholder="Your message" rows= "10"></textarea>
@@ -357,7 +379,7 @@
 <!-- start footer section -->
 <section id="footer">
   <div class="container">
-    <a href="#top" class="go-to-top"><i class="fa fa-chevron-up"></i></a>
+    <a href="#top" class="go-to-top smooth-scroll"><i class="fa fa-chevron-up"></i></a>
     <div class="row footer-row text-center">
       <div class="col-xs-12 col-md-4">
         <h3>HK Office</h3>
@@ -395,7 +417,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-<script type="text/javascript" src="js/scroll.js"></script>
+<script type="text/javascript" src="js/smooth_scroll.js"></script>
+<script type="text/javascript" src="js/menu.js"></script>
 </body>
 
 </html> 

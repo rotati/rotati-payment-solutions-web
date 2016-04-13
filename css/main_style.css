@@ -55,6 +55,11 @@ section#screenshot{
   color: #fff;
   padding-bottom: 20px;
 }
+
+.img-slide{
+  height: 450px;
+}
+
 .contact{
   padding-top: 20px;
 }
