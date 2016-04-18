@@ -45,6 +45,9 @@ section#feature{
 }
 
 /*screenshot section*/
+.carousel-indicators{
+  z-index: 0;
+}
 section#screenshot{
   background: #202020;
   color: #bdc3c7;
