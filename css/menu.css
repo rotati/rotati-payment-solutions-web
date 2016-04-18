@@ -28,6 +28,8 @@
   top: 50%;
   bottom: auto;
   right: auto;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   width: 18px;
   height: 2px;
@@ -103,12 +105,14 @@
 }
 
 .overlay nav {
-    position: relative;
-    height: 60%;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 32px;
-    text-align: center;
+  position: relative;
+  height: 60%;
+  top: 50%;
+  -ms-transform: translateY(-50);
+  -webkit-transform: translateY(-50);
+  transform: translateY(-50%);
+  font-size: 32px;
+  text-align: center;
 }
 
 .overlay nav ul {

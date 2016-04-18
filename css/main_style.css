@@ -59,6 +59,17 @@ section#screenshot{
 .img-slide{
   height: 450px;
 }
+@media(min-width:768px) and (max-width: 980px) {
+  .img-slide{
+    height: 290px;
+  }
+}
+
+@media(max-width: 360px) {
+  .img-slide{
+    height: 140px;
+  }
+}
 
 .contact{
   padding-top: 20px;
@@ -129,4 +140,7 @@ section#footer{
 }
 .footer-row{
   padding: 40px 0;
+}
+.copyright{
+  padding: 55px 0 0;
 }

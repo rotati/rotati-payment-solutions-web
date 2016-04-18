@@ -1,6 +1,4 @@
 $(document).ready(function() {
-
-  // Smooth Hash Link Scroll
   $('.smooth-scroll').click(function() {
   if (location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'') && location.hostname === this.hostname) {
 
