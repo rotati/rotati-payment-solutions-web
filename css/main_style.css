@@ -78,34 +78,6 @@ section#screenshot{
   padding-top: 20px;
 }
 
-/*business section*/
-section#business{
-  background: #ecf0f1;
-  padding: 40px 0;
-}
-.business-col{
-  background: #fff;
-}
-
-.business-col > ul > li{
-  border-radius: 0;
-  border: 1px solid #ddd;
-  color: #000;
-}
-
-.business-item{
-  font-size: 16px;
-  padding: 10px;
-}
-
-.list-header{
-  padding: 10px;
-  font-size: 30px;
-  font-weight: bold;
-  color: #000;
-  text-align: center;
-}
-
 /*get in touch section*/
 section#get-in-touch{
   padding: 40px 0;
