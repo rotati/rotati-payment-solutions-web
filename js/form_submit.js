@@ -2,7 +2,7 @@ $(document).ready(function () {
   var $form = $("form");
   $form.submit(function () {
       $.ajax({
-        type: "POST",
+        type: "post",
         dataType: 'json',
         url: $form.attr("action"),
         data: $form.serialize(),
@@ -12,8 +12,6 @@ $(document).ready(function () {
         error: function(){
           alert("Fail to sent your message. Please try later!");
         }
-        console.log($form.serialize());
-        console.log($form.attr("action"));
       });
       
     return false;
