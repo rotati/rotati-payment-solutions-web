@@ -48,6 +48,13 @@ section#feature{
 .carousel-indicators{
   z-index: 0;
 }
+.carousel-indicators li{
+  border: 1px solid #337ab7;
+}
+
+.carousel-indicators .active{
+  background: #337ab7;
+}
 section#screenshot{
   background: #202020;
   color: #bdc3c7;
