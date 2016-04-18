@@ -8,10 +8,10 @@ $(document).ready(function () {
         data: $form.serialize(),
         success: function(){
           $form[0].reset();
-          alert('Email has been sent successful. Thank you.')
+          alert('Your message has been sent successfully. Thank you.')
         },
         error: function(){
-          alert("Fail to sent your message. Please try later!");
+          alert("Your message has not been sent. Please try again later!");
         }
       });
       
