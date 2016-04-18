@@ -8,6 +8,7 @@ $(document).ready(function () {
         data: $form.serialize(),
         success: function(){
           $form[0].reset();
+          alert('Email has been sent successful. Thank you.')
         },
         error: function(){
           alert("Fail to sent your message. Please try later!");
