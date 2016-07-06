@@ -1,0 +1,1201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight	(_footer.scss)"
+			],
+			[
+				"par",
+				"partials"
+			],
+			[
+				"the",
+				"the_content"
+			],
+			[
+				"fa",
+				"facility"
+			],
+			[
+				"the_",
+				"the_title"
+			],
+			[
+				"post",
+				"posts	(unit-types.haml)"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"ini",
+				"inherit"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get",
+				"get_field	(portfolio.haml)"
+			],
+			[
+				"do",
+				"dow	downto(0) { |n| .. }"
+			],
+			[
+				"them",
+				"theme_asset_url	(index.haml)"
+			],
+			[
+				"col",
+				"color	(_slide.scss)"
+			],
+			[
+				"map",
+				"map-marker"
+			],
+			[
+				"nav",
+				"navbar	(index.haml)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"Ap",
+				"APLE_HOTLINE_DATABASE_NAME=aple_hotline	(.env)"
+			],
+			[
+				"bl",
+				"blank"
+			],
+			[
+				"vi",
+				"videos	(campaigns_controller.rb)"
+			],
+			[
+				"create",
+				"created_at	(videos_controller.rb)"
+			],
+			[
+				"vid",
+				"video"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"crate",
+				"created	(campaign_decorator.rb)"
+			],
+			[
+				"tru",
+				"true	(campaign_decorator.rb)"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"has",
+				"has_blog"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"btn",
+				"btn-block	(show.haml)"
+			],
+			[
+				"capa",
+				"campaigns"
+			],
+			[
+				"pr",
+				"present"
+			],
+			[
+				"camp",
+				"campaign_id"
+			],
+			[
+				"image",
+				"image"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"loca",
+				"localhost:3000	(development.rb)"
+			],
+			[
+				"thu",
+				"thumbnail"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"pra",
+				"private	(virtual_payment.rb)"
+			],
+			[
+				"cl",
+				"cla	class .. < ParentClass .. initialize .. end"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"vo",
+				"video_embed"
+			],
+			[
+				"tex",
+				"text-center	(404.html)"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"campa",
+				"campaign_path"
+			],
+			[
+				"tos",
+				"tosfund-logo.png	(404.html)"
+			],
+			[
+				"imag",
+				"images	(404.html)"
+			],
+			[
+				"ass",
+				"assets	(404.html)"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"to",
+				"to_date"
+			],
+			[
+				"du",
+				"duration_in_date"
+			],
+			[
+				"av",
+				"avaliable	(campaigns_controller.rb)"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"sta",
+				"status	(campaigns_controller.rb)"
+			],
+			[
+				"es",
+				"elsif	elsif ..."
+			],
+			[
+				"re",
+				"review"
+			],
+			[
+				"rew",
+				"review	(campaign.rb)"
+			],
+			[
+				"dra",
+				"draft	(campaign.rb)"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"el",
+				"else	(steps_controller.rb)"
+			],
+			[
+				"e",
+				"elsif	elsif ..."
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"cam",
+				"campaign_id"
+			],
+			[
+				"coll",
+				"collaborations"
+			],
+			[
+				"campaign_id",
+				"campaign_id	(steps_controller.rb)"
+			],
+			[
+				"mo",
+				"mod	module .. end"
+			],
+			[
+				"esl",
+				"else	(steps_controller.rb)"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"rewar",
+				"reward_params"
+			],
+			[
+				"pu",
+				"pundit	(application_controller.rb)"
+			],
+			[
+				"sub",
+				"submit	(reward.haml)"
+			],
+			[
+				"wi",
+				"wizard_path	(reward.haml)"
+			],
+			[
+				"red",
+				"reward"
+			],
+			[
+				"campai",
+				"campaign"
+			],
+			[
+				"fla",
+				"flash"
+			],
+			[
+				"V",
+				"VirtualPayment"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"en",
+				"encrypted_password	(edit.haml)"
+			],
+			[
+				"mar",
+				"margin	(application.scss)"
+			],
+			[
+				"inl",
+				"include	(faq.haml)"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"tu",
+				"true	(campaigns_controller.rb)"
+			],
+			[
+				"cap",
+				"campaign"
+			],
+			[
+				"update",
+				"update_campaign_feature"
+			],
+			[
+				"table",
+				"tablet"
+			],
+			[
+				"blog",
+				"blogs"
+			],
+			[
+				"sho",
+				"short_description	(index.haml)"
+			],
+			[
+				"En",
+				"English"
+			],
+			[
+				"dl",
+				"delete	(index.haml)"
+			],
+			[
+				"admi",
+				"admin_blogs_path"
+			],
+			[
+				"des",
+				"description_kh	(new.haml)"
+			],
+			[
+				"req",
+				"require	(users_controller.rb)"
+			],
+			[
+				"Blo",
+				"BlogImageUploader	(blog_image_uploader.rb)"
+			],
+			[
+				"mou",
+				"mount_uploader	(campaign.rb)"
+			],
+			[
+				"desc",
+				"description_kh	(campaign.rb)"
+			],
+			[
+				"ti",
+				"title_kh	(index.haml)"
+			],
+			[
+				"title",
+				"title_en	(index.haml)"
+			],
+			[
+				"titl",
+				"title_kh	(20160621023622_create_blogs.rb)"
+			],
+			[
+				"Projec",
+				"Project	(_user_menu.haml)"
+			],
+			[
+				"html",
+				"html_safe"
+			],
+			[
+				"inpu",
+				"input_html"
+			],
+			[
+				"file",
+				"file_field	(_form.haml)"
+			],
+			[
+				"slide",
+				"slided	(campaign.rb)"
+			],
+			[
+				"sli",
+				"slider"
+			],
+			[
+				"tur",
+				"true	(campaign_decorator.rb)"
+			],
+			[
+				"btn-",
+				"btn-info"
+			],
+			[
+				"cont",
+				"content_tag"
+			],
+			[
+				"ca",
+				"campaign"
+			],
+			[
+				"admin",
+				"admin_campaigns_path"
+			],
+			[
+				"user",
+				"user_params"
+			],
+			[
+				"is",
+				"is_admin	(user.rb)"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"dona",
+				"donated	(campaign_decorator.rb)"
+			],
+			[
+				"read",
+				"readmore"
+			],
+			[
+				"Dona",
+				"Donated	(_campaign.haml)"
+			],
+			[
+				"go",
+				"goal_amount	(_form.haml)"
+			],
+			[
+				"don",
+				"donation_params"
+			],
+			[
+				"sbu",
+				"submit"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"form",
+				"form_builder	(donation_decorator.rb)"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"donat",
+				"donate"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"for",
+				"form_builder"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"reward",
+				"rewards"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "scs",
+		"selected_items":
+		[
+			[
+				"scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby on Rails"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/_unit_types.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/views/post_types/unit-type.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/rotati/views/shortcode/sliders.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/js/main.js",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/_facilities.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/js/_slider.js",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/views/layouts/index.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/_navbar.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/views/partials/_navbar.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/rotati/views/portfolio.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/rotati/assets/js/_image_pop_up.js",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/views/index.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/_slide.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/views/partials/_slidershow.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/views/partials/_footer.haml",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/_footer.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/_flexslider.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/_media.scss",
+		"/home/polo/Desktop/rotati/cms/Gemfile.lock",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/main.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/flexslider.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/rotati/views/partials/_navbar.haml",
+		"/home/polo/Desktop/rotati/cms/Gemfile",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/js/jquery.sliderPro.min.js",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/slider-pro.min.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/js/_slide.js",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/css/flex.scss",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/orkide/assets/js/_flex.js",
+		"/home/polo/Desktop/rotati/cms/app/apps/themes/rotati/assets/css/main.scss",
+		"/home/polo/Desktop/hotline/abuse(7).sql",
+		"/media/polo/0ACC0BA0CC0B8563/abuse(7).sql",
+		"/home/polo/Desktop/rotati/tosfund/app/decorators/donation_decorator.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/layouts/shared/_admin_sidebar.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/videos/index.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/blogs/index.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/decorators/campaign_decorator.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/models/video.rb",
+		"/home/polo/Desktop/rotati/APLE-hotline-web/Gemfile",
+		"/home/polo/Desktop/rotati/APLE-hotline-web/config/application.rb",
+		"/home/polo/Desktop/report Child Exploitation Materials Online 3477935",
+		"/home/polo/Desktop/rotati/tosfund/papertrail.yml",
+		"/home/polo/Desktop/rotati/tosfund/.papertrail.yml",
+		"/home/polo/.papertrail.yml",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/campaigns/feature.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/campaigns/index.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/campaigns/discover.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/javascripts/donations/new.coffee",
+		"/home/polo/Desktop/rotati/tosfund/app/uploaders/reward_image_uploader.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/show.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/application.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/donations/shared/_wing_donation.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/donations/shared/_on_hand_donation.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/javascripts/rewards/form.coffee",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/javascripts/steps/form.coffee",
+		"/home/polo/Desktop/rotati/tosfund/app/models/donation.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/models/reward.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/javascripts/campaigns/form.coffee",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/shared/_form.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/steps/reward.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/javascripts/application.js",
+		"/home/polo/Desktop/rotati/tosfund/config/locales/kh.yml",
+		"/home/polo/Desktop/rotati/tosfund/config/locales/en.yml",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/donations_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/donations/my_donation.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/index.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/blogs/shared/_form.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/models/social_previewer.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/helpers/application_helper.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/layouts/application.haml",
+		"/home/polo/Desktop/rotati/tosfund/config/routes.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/devise/registrations/new.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/collaboration_campaigns.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/devise/passwords/new.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/devise/passwords/edit.html.erb",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/common.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/steps/show.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/views/rewards/shared/_form.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/uploaders/user_avatar_uploader.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/models/virtual_payment.rb",
+		"/home/polo/Desktop/rotati/tosfund/spec/models/reward_spec.rb",
+		"/home/polo/Desktop/rotati/tosfund/config/environments/development.rb",
+		"/home/polo/Desktop/rotati/tosfund/config/environments/staging.rb",
+		"/home/polo/Desktop/rotati/tosfund/config/environments/production.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/application_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/models/dashboard.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/devise/passwords/new.html.erb",
+		"/home/polo/Desktop/rotati/tosfund/app/uploaders/campaign_image_uploader.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/introduction.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/campaigns/introduction.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/donations/new.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/views/donations/new.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/shared/_slider.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/layouts/shared/_user_menu.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/campaigns/show.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/views/layouts/shared/_navbar.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/models/campaign.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/discover.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/models/story.rb",
+		"/home/polo/Desktop/rotati/tosfund/public/404.html",
+		"/home/polo/Desktop/rotati/tosfund/public/500.html",
+		"/home/polo/Desktop/rotati/tosfund/app/decorators/user_decorator.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/rewards_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/rewards/index.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/decorators/reward_decorator.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/models/user.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/campaigns_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/db/migrate/20160623033359_create_versions.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/donations/shared/_donation_detail.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/models/campaign_donator.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/campaigns/index.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/campaigns/shared/_payment_info_modal.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/feature.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/campaigns/shared/_campaign_state_model.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/models/blog.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/admin/campaigns_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/admin/campaigns/feature.haml",
+		"/home/polo/Desktop/rotati/tosfund/.env",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/concerns/campaign_authorizable.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/users/registrations_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/policies/reward_policy.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/campaigns/_campaign.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/steps_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/policies/campaign_policy.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/controllers/admin/steps_controller.rb",
+		"/home/polo/Desktop/rotati/tosfund/app/views/rewards/edit.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/assets/stylesheets/rewards/form.scss",
+		"/home/polo/Desktop/rotati/tosfund/app/views/layouts/shared/_flash.haml",
+		"/home/polo/Desktop/rotati/tosfund/app/views/users/show.haml"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carousel",
+			"              %",
+			"15px",
+			"flexslider",
+			"include",
+			"flex-direction-nav",
+			"flex-nav-prev",
+			"fonts",
+			"font",
+			"slide",
+			"slide2",
+			"'s",
+			")",
+			"(",
+			"responsive",
+			"',",
+			"Facility",
+			"'#',",
+			"TOSFUND",
+			"%td",
+			"%th",
+			"video",
+			"success",
+			"blog",
+			"admin_videos_path",
+			"jbuilder",
+			"sdoc",
+			"word-break",
+			"campaign",
+			".object",
+			")\n",
+			"pry",
+			"h.",
+			"delegate_all",
+			"join",
+			"story",
+			"donation",
+			"form",
+			"\"data-toggle\" => \"collapse\"",
+			"is_status",
+			"default-img",
+			"DAY",
+			"description",
+			"btn",
+			"Modal",
+			"Status",
+			"status",
+			"donation",
+			"4",
+			".campaign-header",
+			"VirtualPayment.message(params)",
+			"VirtualPayment.message",
+			".footer",
+			".in",
+			"One",
+			"collapse",
+			"One",
+			"Three",
+			"One",
+			"Three",
+			"Two",
+			".",
+			"Two",
+			"One",
+			"home",
+			"return",
+			"update_campaign_feature",
+			"image",
+			"static_pages",
+			"item",
+			"read",
+			";'\n",
+			"publish",
+			"is_",
+			"3",
+			"support",
+			"': ",
+			"preview_image",
+			"if ",
+			"slide",
+			"slider",
+			".text-center",
+			"campaign",
+			"%th",
+			"th",
+			"%th",
+			"compile",
+			"serve_static_assets",
+			"btn-icon",
+			"of",
+			"4",
+			"notice",
+			"feature",
+			"detail_description",
+			"1",
+			"name",
+			"admin_status_donation",
+			"publish",
+			" btn-action",
+			"btn btn-primary btn-action",
+			"Not ready to be feature",
+			", class: 'btn btn-primary btn-action'",
+			"feature",
+			"publish_feature",
+			"publish",
+			".text-left",
+			"{:style => \"margin-bottom: 0.14in\"}",
+			"what_is_tosfund",
+			"f",
+			"collaboration",
+			"donation",
+			"collaboration",
+			"campaign",
+			"campaigns",
+			"fund",
+			"btn-block",
+			".col-xs-6",
+			"joined",
+			"donation",
+			"donations",
+			"wind",
+			", class: 'img-responsive'",
+			"phone",
+			" .",
+			"campaign",
+			"donate",
+			"//",
+			"turbolinks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"video",
+				"app/models/video.rb"
+			],
+			[
+				"show",
+				"app/views/campaigns/show.haml"
+			],
+			[
+				"donat",
+				"app/controllers/donations_controller.rb"
+			],
+			[
+				"so",
+				"app/models/social_previewer.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"index",
+				"app/views/campaigns/index.haml"
+			],
+			[
+				"prev",
+				"app/models/social_previewer.rb"
+			],
+			[
+				"intr",
+				"app/views/campaigns/introduction.haml"
+			],
+			[
+				"feature",
+				"app/assets/stylesheets/campaigns/feature.scss"
+			],
+			[
+				"side",
+				"app/views/layouts/shared/_admin_sidebar.haml"
+			],
+			[
+				"comm",
+				"app/assets/stylesheets/common.scss"
+			],
+			[
+				"dona",
+				"app/models/donation.rb"
+			],
+			[
+				"stor",
+				"app/models/story.rb"
+			],
+			[
+				"cam",
+				"app/models/campaign.rb"
+			],
+			[
+				"dis",
+				"app/views/campaigns/discover.haml"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"rewa",
+				"app/controllers/rewards_controller.rb"
+			],
+			[
+				"re",
+				"app/models/reward.rb"
+			],
+			[
+				"feat",
+				"app/assets/stylesheets/campaigns/feature.scss"
+			],
+			[
+				"don",
+				"app/models/donation.rb"
+			],
+			[
+				"",
+				"app/models/donation.rb"
+			],
+			[
+				"slide",
+				"app/views/campaigns/shared/_slider.haml"
+			],
+			[
+				"camp",
+				"app/models/campaign.rb"
+			],
+			[
+				"show.s",
+				"app/assets/stylesheets/campaigns/show.scss"
+			],
+			[
+				"s",
+				"app/views/campaigns/show.haml"
+			],
+			[
+				"feature.s",
+				"app/assets/stylesheets/campaigns/feature.scss"
+			],
+			[
+				"campa",
+				"app/controllers/campaigns_controller.rb"
+			],
+			[
+				"campaign_do",
+				"app/models/campaign_donator.rb"
+			],
+			[
+				"_ca",
+				"app/views/campaigns/_campaign.haml"
+			],
+			[
+				"en",
+				"config/locales/en.yml"
+			],
+			[
+				"fea",
+				"app/views/campaigns/feature.haml"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"v",
+				"app/models/virtual_payment.rb"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"press",
+				"app/assets/stylesheets/homes/press.scss"
+			],
+			[
+				"pres",
+				"app/views/homes/press.haml"
+			],
+			[
+				"foot",
+				"app/views/layouts/shared/_footer.haml"
+			],
+			[
+				"foo",
+				"app/views/layouts/shared/_footer.haml"
+			],
+			[
+				"nav",
+				"app/views/layouts/shared/_navbar.haml"
+			],
+			[
+				"home",
+				"app/controllers/homes_controller.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"hom",
+				"app/controllers/homes_controller.rb"
+			],
+			[
+				"_nav",
+				"app/views/layouts/shared/_navbar.haml"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"campai",
+				"app/models/campaign.rb"
+			],
+			[
+				"stat",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"blogs",
+				"app/controllers/admin/blogs_controller.rb"
+			],
+			[
+				"sid",
+				"app/views/layouts/shared/_admin_sidebar.haml"
+			],
+			[
+				"step",
+				"app/controllers/steps_controller.rb"
+			],
+			[
+				"ruot",
+				"config/routes.rb"
+			],
+			[
+				"rew",
+				"app/models/reward.rb"
+			],
+			[
+				"user_men",
+				"app/views/layouts/shared/_user_menu.haml"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"ap",
+				"app/views/layouts/application.haml"
+			],
+			[
+				"applic",
+				"app/views/layouts/application.haml"
+			],
+			[
+				"campaignu",
+				"app/uploaders/campaign_image_uploader.rb"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"ca",
+				"app/models/category.rb"
+			],
+			[
+				"cat",
+				"app/models/categorization.rb"
+			],
+			[
+				"categ",
+				"app/models/categorization.rb"
+			],
+			[
+				"serv",
+				"app/apps/themes/rotati/views/services.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
